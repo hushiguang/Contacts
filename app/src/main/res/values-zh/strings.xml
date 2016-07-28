@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">通讯录</string>
+    <string name="action_search">搜索</string>
+    <string name="action_done">完成</string>
+    <string name="search_view_hint">查找联系人</string>
+    <string name="add_contact_activity_label">新增联系人</string>
+    <string name="editor_contact_activity_label">修改联系人</string>
+    <string name="editor_contact_activity_more">更多</string>
+    <string name="action_edit">编辑</string>
+    <string name="action_delete">删除</string>
+    <string name="edit_hint_name">姓名</string>
+    <string name="edit_hint_phone">电话</string>
+    <string name="frequently_hint">常用联系人</string>
+
+    <string-array name="tab_titles">
+        <item>常用</item>
+        <item>全部</item>
+    </string-array>
+
+</resources>

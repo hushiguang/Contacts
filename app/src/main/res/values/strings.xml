@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="action_search">Search</string>
+    <string name="action_done">Done</string>
+    <string name="search_view_hint">Find contacts</string>
+    <string name="add_contact_activity_label">Add new contact</string>
+    <string name="editor_contact_activity_label">change contact</string>
+    <string name="editor_contact_activity_more">more</string>
+    <string name="action_edit">edit</string>
+    <string name="action_delete">delete</string>
+    <string name="edit_hint_name">Name</string>
+    <string name="edit_hint_phone">Phone</string>
+    <string name="frequently_hint">Frequently contacted</string>
+
+    <string-array name="tab_titles">
+        <item>Frequently</item>
+        <item>All</item>
+    </string-array>
+</resources>

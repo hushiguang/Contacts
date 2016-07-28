@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:opacity="opaque">
+    <item android:drawable="@android:color/white" />
+    <item android:height="@dimen/systemBar_size">
+        <color android:color="@color/colorPrimaryDark" />
+    </item>
+    <item
+        android:height="@dimen/toolbar_tabLayout_size"
+        android:top="@dimen/systemBar_size">
+        <color android:color="@color/colorPrimary" />
+    </item>
+</layer-list>
